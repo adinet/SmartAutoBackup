@@ -1,0 +1,5 @@
+﻿{
+  "SavePath": "d:\\SmartAutoBackup\\DB\\",
+  "Interval": 10,
+  "FtpUploadType" : 0
+}
